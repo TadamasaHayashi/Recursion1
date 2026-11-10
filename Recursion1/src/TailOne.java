@@ -14,7 +14,7 @@ public static int mystery (int n)
 				return 1;
 				}
 			else
-				//HIiii
+				//HI
 				{
 				return n + mystery (n-2);
 				}
